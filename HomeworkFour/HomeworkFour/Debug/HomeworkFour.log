@@ -1,5 +1,9 @@
-﻿  ShoppingCart.cpp
+﻿  Main.cpp
+c:\users\rados\desktop\advancedc++homework\homeworkfour\homeworkfour\shoppingcart.hpp(27): warning C4091: 'static ': ignored on left of 'ShoppingCart' when no variable is declared
+  Generating Code...
+  Compiling...
+  ShoppingCart.cpp
+c:\users\rados\desktop\advancedc++homework\homeworkfour\homeworkfour\shoppingcart.hpp(27): warning C4091: 'static ': ignored on left of 'ShoppingCart' when no variable is declared
 c:\users\rados\desktop\advancedc++homework\homeworkfour\homeworkfour\shoppingcart.cpp(91): warning C4101: 'location': unreferenced local variable
-  Main.cpp
   Generating Code...
   HomeworkFour.vcxproj -> C:\Users\rados\Desktop\AdvancedC++Homework\HomeworkFour\Debug\HomeworkFour.exe
